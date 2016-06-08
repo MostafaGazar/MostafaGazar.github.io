@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mobile Refresh</title>
+    <description>GDG Wellington, together with Cocoaheads Wellington is proud to bring you Mobile Refresh 2016. Our one-day conference is aimed at mobile technology enthusiasts who are interested in a quick update on the latest developments announced at Google I/O and WWDC.
+</description>
+    <link>http://yourdomain.com/</link>
+    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Thu, 09 Jun 2016 08:11:29 +1200</pubDate>
+    <lastBuildDate>Thu, 09 Jun 2016 08:11:29 +1200</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>Dreams</title>
+        <description>
+</description>
+        <pubDate>Fri, 18 Jul 2014 00:00:00 +1200</pubDate>
+        <link>http://yourdomain.com/web%20development/2014/07/18/project-1/</link>
+        <guid isPermaLink="true">http://yourdomain.com/web%20development/2014/07/18/project-1/</guid>
+        
+        
+        <category>Web Development</category>
+        
+      </item>
+    
+      <item>
+        <title>Escape</title>
+        <description>
+</description>
+        <pubDate>Thu, 17 Jul 2014 00:00:00 +1200</pubDate>
+        <link>http://yourdomain.com/web%20development/2014/07/17/project-2/</link>
+        <guid isPermaLink="true">http://yourdomain.com/web%20development/2014/07/17/project-2/</guid>
+        
+        
+        <category>Web Development</category>
+        
+      </item>
+    
+      <item>
+        <title>Golden</title>
+        <description>
+</description>
+        <pubDate>Wed, 16 Jul 2014 00:00:00 +1200</pubDate>
+        <link>http://yourdomain.com/web%20development/2014/07/16/project-3/</link>
+        <guid isPermaLink="true">http://yourdomain.com/web%20development/2014/07/16/project-3/</guid>
+        
+        
+        <category>Web Development</category>
+        
+      </item>
+    
+      <item>
+        <title>Treehouse</title>
+        <description>
+</description>
+        <pubDate>Tue, 15 Jul 2014 00:00:00 +1200</pubDate>
+        <link>http://yourdomain.com/web%20development/2014/07/15/project-4/</link>
+        <guid isPermaLink="true">http://yourdomain.com/web%20development/2014/07/15/project-4/</guid>
+        
+        
+        <category>Web Development</category>
+        
+      </item>
+    
+      <item>
+        <title>Round Icons</title>
+        <description>
+</description>
+        <pubDate>Tue, 15 Jul 2014 00:00:00 +1200</pubDate>
+        <link>http://yourdomain.com/web%20development/2014/07/15/project-6/</link>
+        <guid isPermaLink="true">http://yourdomain.com/web%20development/2014/07/15/project-6/</guid>
+        
+        
+        <category>Web Development</category>
+        
+      </item>
+    
+      <item>
+        <title>Startup Framework</title>
+        <description>
+</description>
+        <pubDate>Mon, 14 Jul 2014 00:00:00 +1200</pubDate>
+        <link>http://yourdomain.com/web%20development/2014/07/14/project-5/</link>
+        <guid isPermaLink="true">http://yourdomain.com/web%20development/2014/07/14/project-5/</guid>
+        
+        
+        <category>Web Development</category>
+        
+      </item>
+    
+  </channel>
+</rss>
