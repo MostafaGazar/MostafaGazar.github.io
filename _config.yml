@@ -12,8 +12,8 @@ twitter_username: GDGWellington
 social:
   - title: twitter
     url: http://twitter.com/GDGWellington
-  # - title: facebook
-  #   url:
+  - title: slack
+    url: https://gdgnz.herokuapp.com
 
 # Postal address (add as many lines as necessary)
 # address:
