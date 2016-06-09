@@ -1,17 +1,28 @@
- <!-- jQuery Version 1.11.0 -->
-    <script src="{{ "/js/jquery-1.11.0.js" | prepend: site.baseurl }}"></script>
+    <!-- Relative Path -->
+    {% assign relative_path = site.baseurl %}{% assign url_parts = page.url | split: '/' %}{% for x in (2..url_parts.size) %}{% assign relative_path = relative_path | append: '/..' %}{% endfor %}
+
+    <!-- jQuery Version 1.11.0 -->
+    <!-- <script src="{{ "/js/jquery-1.11.0.js" | prepend: site.baseurl }}"></script> -->
+    <script src="{{ relative_path }}/js/jquery-1.11.0.js"></script>
 
     <!-- Bootstrap Core JavaScript -->
-    <script src="{{ "/js/bootstrap.min.js" | prepend: site.baseurl }}"></script>
+    <!-- <script src="{{ "/js/bootstrap.min.js" | prepend: site.baseurl }}"></script> -->
+    <script src="{{ relative_path }}/js/bootstrap.min.js"></script>
 
     <!-- Plugin JavaScript -->
-    <script src="{{ "/js/jquery.easing.min.js" | prepend: site.baseurl }}"></script>
+    <!-- <script src="{{ "/js/jquery.easing.min.js" | prepend: site.baseurl }}"></script>
     <script src="{{ "/js/classie.js" | prepend: site.baseurl }}"></script>
-    <script src="{{ "/js/cbpAnimatedHeader.js" | prepend: site.baseurl }}"></script>
+    <script src="{{ "/js/cbpAnimatedHeader.js" | prepend: site.baseurl }}"></script> -->
+    <script src="{{ relative_path }}/js/jquery.easing.min.js"></script>
+    <script src="{{ relative_path }}/js/classie.js"></script>
+    <script src="{{ relative_path }}/js/cbpAnimatedHeader.js"></script>
 
     <!-- Contact Form JavaScript -->
-    <script src="{{ "/js/jqBootstrapValidation.js" | prepend: site.baseurl }}"></script>
-    <script src="{{ "/js/contact_me.js" | prepend: site.baseurl }}"></script>
+    <!-- <script src="{{ "/js/jqBootstrapValidation.js" | prepend: site.baseurl }}"></script>
+    <script src="{{ "/js/contact_me.js" | prepend: site.baseurl }}"></script> -->
+    <script src="{{ relative_path }}/js/jqBootstrapValidation.js"></script>
+    <script src="{{ relative_path }}/js/contact_me.js"></script>
 
     <!-- Custom Theme JavaScript -->
-    <script src="{{ "/js/agency.js" | prepend: site.baseurl }}"></script>
+    <!-- <script src="{{ "/js/agency.js" | prepend: site.baseurl }}"></script> -->
+    <script src="{{ relative_path }}/js/agency.js"></script>
