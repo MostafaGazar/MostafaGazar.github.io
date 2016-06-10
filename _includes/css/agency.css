@@ -18,6 +18,10 @@ body {
     color: #{{ site.data.template.color.primary }};
 }
 
+.sponsor-bg {
+    color: #{{ site.data.template.color.primary }};
+}
+
 p {
     font-size: 14px;
     line-height: 1.75;
