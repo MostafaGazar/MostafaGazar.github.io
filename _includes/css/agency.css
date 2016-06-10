@@ -36,15 +36,31 @@ p.long-text {
 }
 
 p.long-text, p.long-text-extra-padding {
-  margin-left: 100px;
-  margin-right: 100px;
+  margin-left: 20px;
+  margin-right: 20px;
   font-size: 20px;
   line-height: 40px;
 }
 
+@media(min-width:768px) {
+  p.long-text, p.long-text-extra-padding {
+    margin-left: 100px;
+    margin-right: 100px;
+    font-size: 20px;
+    line-height: 40px;
+  }
+}
+
 p.text-muted {
-  margin-left: 100px;
-  margin-right: 100px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+@media(min-width:768px) {
+  p.text-muted {
+    margin-left: 100px;
+    margin-right: 100px;
+  }
 }
 
 a,
@@ -673,67 +689,16 @@ aside.clients img {
     margin: 50px auto;
 }
 
-section#contact {
-    background-position: center;
-    background-repeat: no-repeat;
+section#agenda table {
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
-section#contact .section-heading {
-    color: #fff;
-}
-
-section#contact .form-group {
-    margin-bottom: 25px;
-}
-
-section#contact .form-group input,
-section#contact .form-group textarea {
-    padding: 20px;
-}
-
-section#contact .form-group input.form-control {
-    height: auto;
-}
-
-section#contact .form-group textarea.form-control {
-    height: 236px;
-}
-
-section#contact .form-control:focus {
-    border-color: #{{ site.data.template.color.primary }};
-    box-shadow: none;
-}
-
-section#contact::-webkit-input-placeholder {
-    text-transform: uppercase;
-    font-family: {{ site.data.template.font.primary }};
-    font-weight: 700;
-    color: #bbb;
-}
-
-section#contact:-moz-placeholder {
-    text-transform: uppercase;
-    font-family: {{ site.data.template.font.primary }};
-    font-weight: 700;
-    color: #bbb;
-}
-
-section#contact::-moz-placeholder {
-    text-transform: uppercase;
-    font-family: {{ site.data.template.font.primary }};
-    font-weight: 700;
-    color: #bbb;
-}
-
-section#contact:-ms-input-placeholder {
-    text-transform: uppercase;
-    font-family: {{ site.data.template.font.primary }};
-    font-weight: 700;
-    color: #bbb;
-}
-
-section#contact .text-danger {
-    color: #e74c3c;
+@media(min-width:768px) {
+  section#agenda table {
+      margin-left: 100px;
+      margin-right: 100px;
+  }
 }
 
 footer {
