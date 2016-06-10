@@ -224,6 +224,60 @@ fieldset[disabled] .btn-xl.active {
     background-color: #fff;
 }
 
+.btn-invert {
+    padding: 5px 20px;
+    margin-left: 15px;
+    margin-right: 15px;
+    border-color: #FAA60C;
+    border-radius: 3px;
+    text-transform: uppercase;
+    font-family: Roboto, Montserrat, "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    color: #FAA60C !important;
+    background-color: none;
+}
+
+.btn-invert:hover,
+.btn-invert:focus,
+.btn-invert:active,
+.btn-invert.active,
+.open .dropdown-toggle.btn-invert {
+    border-color: #E69705;
+    color: #E69705 !important;
+    background-color: none;
+}
+
+.btn-invert:active,
+.btn-invert.active,
+.open .dropdown-toggle.btn-invert {
+    background-image: none;
+}
+
+.btn-invert.disabled,
+.btn-invert[disabled],
+fieldset[disabled] .btn-invert,
+.btn-invert.disabled:hover,
+.btn-invert[disabled]:hover,
+fieldset[disabled] .btn-invert:hover,
+.btn-invert.disabled:focus,
+.btn-invert[disabled]:focus,
+fieldset[disabled] .btn-invert:focus,
+.btn-invert.disabled:active,
+.btn-invert[disabled]:active,
+fieldset[disabled] .btn-invert:active,
+.btn-invert.disabled.active,
+.btn-invert[disabled].active,
+fieldset[disabled] .btn-invert.active {
+    border-color: #E69705;
+    background-color: none;
+}
+
+.btn-invert .badge {
+    color: #FAA60C;
+    background-color: #fff;
+}
+
 .navbar-default {
     border-color: transparent;
     background-color: #222;
