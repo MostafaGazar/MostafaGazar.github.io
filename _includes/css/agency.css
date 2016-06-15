@@ -758,18 +758,6 @@ aside.clients img {
     margin: 50px auto;
 }
 
-section#agenda table {
-    margin-left: 20px;
-    margin-right: 20px;
-}
-
-@media(min-width:768px) {
-  section#agenda table {
-      margin-left: 100px;
-      margin-right: 100px;
-  }
-}
-
 footer {
     padding: 25px 0;
     text-align: center;
@@ -913,4 +901,28 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: #{{ site.data.template.color.primary }};
+}
+
+section#agenda table {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+@media(min-width:768px) {
+  section#agenda table {
+      margin-left: 100px;
+      margin-right: 100px;
+  }
+}
+
+section#speakers table {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+@media(min-width:768px) {
+  section#speakers table {
+      margin-left: 100px;
+      margin-right: 100px;
+  }
 }

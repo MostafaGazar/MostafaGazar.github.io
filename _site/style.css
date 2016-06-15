@@ -484,7 +484,7 @@ section#code_of_conduct {
     -moz-transition: all ease .5s;
     transition: all ease .5s;
     background: rgba(254,209,54,.9); /* Fallback when no plugin support */
-    background: rgba(250,166,12, .9);
+    background: rgba(FAA60C, .9);
 }
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover:hover {
@@ -765,18 +765,6 @@ aside.clients img {
     margin: 50px auto;
 }
 
-section#agenda table {
-    margin-left: 20px;
-    margin-right: 20px;
-}
-
-@media(min-width:768px) {
-  section#agenda table {
-      margin-left: 100px;
-      margin-right: 100px;
-  }
-}
-
 footer {
     padding: 25px 0;
     text-align: center;
@@ -920,6 +908,30 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: #FAA60C;
+}
+
+section#agenda table {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+@media(min-width:768px) {
+  section#agenda table {
+      margin-left: 100px;
+      margin-right: 100px;
+  }
+}
+
+section#speakers table {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+@media(min-width:768px) {
+  section#speakers table {
+      margin-left: 100px;
+      margin-right: 100px;
+  }
 }
 
 
