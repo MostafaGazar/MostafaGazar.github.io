@@ -926,3 +926,35 @@ section#speakers table {
       margin-right: 100px;
   }
 }
+
+section#sessions .container-fluid {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+section#sessions .container-fluid .row {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+section#sessions .event-venue-1 {
+    color: RGB(93, 159, 65);
+}
+
+section#sessions .event-venue-2 {
+    color: RGB(241, 187, 21);
+}
+
+section#sessions .event-venue-3 {
+    color: RGB(58, 118, 132);
+}
+
+section#sessions .event-venue-4 {
+    color: RGB(229, 134, 38);
+}
+
+@media(min-width:768px) {
+  section#sessions .container-fluid {
+      margin-left: 100px;
+      margin-right: 100px;
+  }
+}
