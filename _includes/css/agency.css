@@ -10,6 +10,11 @@ body {
     color: #{{ site.data.template.color.secondary-dark }};
 }
 
+.zero-horizontal-padding {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
 .text-muted {
     #{{ site.data.template.color.muted }};
 }

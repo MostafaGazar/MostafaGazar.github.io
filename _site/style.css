@@ -17,6 +17,11 @@ body {
     color: #333;
 }
 
+.zero-horizontal-padding {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
 .text-muted {
     #777;
 }
