@@ -489,7 +489,7 @@ section#code_of_conduct {
     -moz-transition: all ease .5s;
     transition: all ease .5s;
     background: rgba(254,209,54,.9); /* Fallback when no plugin support */
-    background: rgba(250,166,12, .9);
+    background: rgba(FAA60C, .9);
 }
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover:hover {
