@@ -27,11 +27,11 @@ body {
 }
 
 .text-primary {
-    color: #FAA60C;
+    color: #FFC300;
 }
 
 .sponsor-bg {
-    color: #FAA60C;
+    color: #FFC300;
 }
 
 p {
@@ -88,14 +88,14 @@ a.active {
 }
 
 a {
-    color: #FAA60C;
+    color: #FFC300;
 }
 
 a:hover,
 a:focus,
 a:active,
 a.active {
-    color: #E69705;
+    color: #ECB500;
 }
 
 h1,
@@ -129,12 +129,12 @@ h6 {
 }
 
 .btn-primary {
-    border-color: #FAA60C;
+    border-color: #FFC300;
     text-transform: uppercase;
     font-family: Roboto, Montserrat, "Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
-    color: #fff;
-    background-color: #FAA60C;
+    color: #E9FFFF;
+    background-color: #FFC300;
 }
 
 .btn-primary:hover,
@@ -142,9 +142,9 @@ h6 {
 .btn-primary:active,
 .btn-primary.active,
 .open .dropdown-toggle.btn-primary {
-    border-color: #FAA60C;
-    color: #fff;
-    background-color: #E69705;
+    border-color: #FFC300;
+    color: #E9FFFF;
+    background-color: #ECB500;
 }
 
 .btn-primary:active,
@@ -168,25 +168,25 @@ fieldset[disabled] .btn-primary:active,
 .btn-primary.disabled.active,
 .btn-primary[disabled].active,
 fieldset[disabled] .btn-primary.active {
-    border-color: #FAA60C;
-    background-color: #FAA60C;
+    border-color: #FFC300;
+    background-color: #FFC300;
 }
 
 .btn-primary .badge {
-    color: #FAA60C;
+    color: #FFC300;
     background-color: #fff;
 }
 
 .btn-xl {
     padding: 20px 40px;
-    border-color: #FAA60C;
+    border-color: #FFC300;
     border-radius: 3px;
     text-transform: uppercase;
     font-family: Roboto, Montserrat, "Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 18px;
     font-weight: 700;
-    color: #fff;
-    background-color: #FAA60C;
+    color: #E9FFFF;
+    background-color: #FFC300;
 }
 
 .btn-xl:hover,
@@ -194,9 +194,9 @@ fieldset[disabled] .btn-primary.active {
 .btn-xl:active,
 .btn-xl.active,
 .open .dropdown-toggle.btn-xl {
-    border-color: #FAA60C;
-    color: #fff;
-    background-color: #E69705;
+    border-color: #FFC300;
+    color: #E9FFFF;
+    background-color: #ECB500;
 }
 
 .btn-xl:active,
@@ -220,12 +220,12 @@ fieldset[disabled] .btn-xl:active,
 .btn-xl.disabled.active,
 .btn-xl[disabled].active,
 fieldset[disabled] .btn-xl.active {
-    border-color: #FAA60C;
-    background-color: #FAA60C;
+    border-color: #FFC300;
+    background-color: #FFC300;
 }
 
 .btn-xl .badge {
-    color: #FAA60C;
+    color: #FFC300;
     background-color: #fff;
 }
 
@@ -233,13 +233,13 @@ fieldset[disabled] .btn-xl.active {
     padding: 5px 20px;
     margin-left: 15px;
     margin-right: 15px;
-    border-color: #FAA60C;
+    border-color: #FFC300;
     border-radius: 3px;
     text-transform: uppercase;
     font-family: Roboto, Montserrat, "Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 18px;
     font-weight: 700;
-    color: #FAA60C !important;
+    color: #FFC300 !important;
     background-color: none;
 }
 
@@ -248,8 +248,8 @@ fieldset[disabled] .btn-xl.active {
 .btn-invert:active,
 .btn-invert.active,
 .open .dropdown-toggle.btn-invert {
-    border-color: #E69705;
-    color: #E69705 !important;
+    border-color: #ECB500;
+    color: #ECB500 !important;
     background-color: none;
 }
 
@@ -274,30 +274,30 @@ fieldset[disabled] .btn-invert:active,
 .btn-invert.disabled.active,
 .btn-invert[disabled].active,
 fieldset[disabled] .btn-invert.active {
-    border-color: #E69705;
+    border-color: #ECB500;
     background-color: none;
 }
 
 .btn-invert .badge {
-    color: #FAA60C;
+    color: #FFC300;
     background-color: #fff;
 }
 
 .navbar-default {
     border-color: transparent;
-    background-color: #222;
+    background-color: #24292E;
 }
 
 .navbar-default .navbar-brand {
     /*font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;*/
-    color: #FAA60C;
+    color: #FFC300;
 }
 
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus,
 .navbar-default .navbar-brand:active,
 .navbar-default .navbar-brand.active {
-    color: #E69705;
+    color: #ECB500;
 }
 
 .navbar-default .navbar-collapse {
@@ -305,8 +305,8 @@ fieldset[disabled] .btn-invert.active {
 }
 
 .navbar-default .navbar-toggle {
-    border-color: #FAA60C;
-    background-color: #FAA60C;
+    border-color: #24292E;
+    background-color: #24292E;
 }
 
 .navbar-default .navbar-toggle .icon-bar {
@@ -315,7 +315,7 @@ fieldset[disabled] .btn-invert.active {
 
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
-    background-color: #FAA60C;
+    background-color: #24292E;
 }
 
 .navbar-default .nav li a {
@@ -329,19 +329,19 @@ fieldset[disabled] .btn-invert.active {
 .navbar-default .nav li a:hover,
 .navbar-default .nav li a:focus {
     outline: 0;
-    color: #FAA60C;
+    color: #FFC300;
 }
 
 .navbar-default .navbar-nav>.active>a {
     border-radius: 0;
     color: #fff;
-    background-color: #FAA60C;
+    background-color: #FFC300;
 }
 
 .navbar-default .navbar-nav>.active>a:hover,
 .navbar-default .navbar-nav>.active>a:focus {
     color: #fff;
-    background-color: #E69705;
+    background-color: #ECB500;
 }
 
 @media(min-width:768px) {
@@ -367,7 +367,7 @@ fieldset[disabled] .btn-invert.active {
 
     .navbar-default.navbar-shrink {
         padding: 10px 0;
-        background-color: #222;
+        background-color: #24292E;
     }
 
     .navbar-default.navbar-shrink .navbar-brand {
@@ -489,7 +489,7 @@ section#code_of_conduct {
     -moz-transition: all ease .5s;
     transition: all ease .5s;
     background: rgba(254,209,54,.9); /* Fallback when no plugin support */
-    background: rgba(FAA60C, .9);
+    background: rgba(FFC300, .9);
 }
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover:hover {
@@ -612,7 +612,7 @@ section#code_of_conduct {
     border-radius: 100%;
     text-align: center;
     color: #fff;
-    background-color: #FAA60C;
+    background-color: #FFC300;
 }
 
 .timeline>li .timeline-image h4 {
@@ -803,7 +803,7 @@ ul.social-buttons li a {
     line-height: 40px;
     outline: 0;
     color: #fff;
-    background-color: #222;
+    background-color: #24292E;
     -webkit-transition: all .3s;
     -moz-transition: all .3s;
     transition: all .3s;
@@ -812,7 +812,7 @@ ul.social-buttons li a {
 ul.social-buttons li a:hover,
 ul.social-buttons li a:focus,
 ul.social-buttons li a:active {
-    background-color: #FAA60C;
+    background-color: #FFC300;
 }
 
 .btn:focus,
@@ -895,12 +895,12 @@ ul.social-buttons li a:active {
 
 ::-moz-selection {
     text-shadow: none;
-    background: #FAA60C;
+    background: #FFC300;
 }
 
 ::selection {
     text-shadow: none;
-    background: #FAA60C;
+    background: #FFC300;
 }
 
 img::selection {
@@ -912,7 +912,7 @@ img::-moz-selection {
 }
 
 body {
-    webkit-tap-highlight-color: #FAA60C;
+    webkit-tap-highlight-color: #FFC300;
 }
 
 section#agenda table {

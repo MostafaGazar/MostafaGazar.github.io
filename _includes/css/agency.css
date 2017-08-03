@@ -126,7 +126,7 @@ h6 {
     text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
     font-weight: 700;
-    color: #fff;
+    color: #{{ site.data.template.color.button }};
     background-color: #{{ site.data.template.color.primary }};
 }
 
@@ -136,7 +136,7 @@ h6 {
 .btn-primary.active,
 .open .dropdown-toggle.btn-primary {
     border-color: #{{ site.data.template.color.primary }};
-    color: #fff;
+    color: #{{ site.data.template.color.button }};
     background-color: #{{ site.data.template.color.secondary }};
 }
 
@@ -178,7 +178,7 @@ fieldset[disabled] .btn-primary.active {
     font-family: {{ site.data.template.font.primary }};
     font-size: 18px;
     font-weight: 700;
-    color: #fff;
+    color: #{{ site.data.template.color.button }};
     background-color: #{{ site.data.template.color.primary }};
 }
 
@@ -188,7 +188,7 @@ fieldset[disabled] .btn-primary.active {
 .btn-xl.active,
 .open .dropdown-toggle.btn-xl {
     border-color: #{{ site.data.template.color.primary }};
-    color: #fff;
+    color: #{{ site.data.template.color.button }};
     background-color: #{{ site.data.template.color.secondary }};
 }
 
@@ -278,7 +278,7 @@ fieldset[disabled] .btn-invert.active {
 
 .navbar-default {
     border-color: transparent;
-    background-color: #222;
+    background-color: #{{ site.data.template.color.header }};
 }
 
 .navbar-default .navbar-brand {
@@ -298,8 +298,8 @@ fieldset[disabled] .btn-invert.active {
 }
 
 .navbar-default .navbar-toggle {
-    border-color: #{{ site.data.template.color.primary }};
-    background-color: #{{ site.data.template.color.primary }};
+    border-color: #{{ site.data.template.color.header }};
+    background-color: #{{ site.data.template.color.header }};
 }
 
 .navbar-default .navbar-toggle .icon-bar {
@@ -308,7 +308,7 @@ fieldset[disabled] .btn-invert.active {
 
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
-    background-color: #{{ site.data.template.color.primary }};
+    background-color: #{{ site.data.template.color.header }};
 }
 
 .navbar-default .nav li a {
@@ -360,7 +360,7 @@ fieldset[disabled] .btn-invert.active {
 
     .navbar-default.navbar-shrink {
         padding: 10px 0;
-        background-color: #222;
+        background-color: #{{ site.data.template.color.header }};
     }
 
     .navbar-default.navbar-shrink .navbar-brand {
@@ -796,7 +796,7 @@ ul.social-buttons li a {
     line-height: 40px;
     outline: 0;
     color: #fff;
-    background-color: #222;
+    background-color: #{{ site.data.template.color.header }};
     -webkit-transition: all .3s;
     -moz-transition: all .3s;
     transition: all .3s;
