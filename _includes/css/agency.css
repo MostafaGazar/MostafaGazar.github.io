@@ -107,7 +107,7 @@ h6 {
 }
 
 .bg-light-gray {
-    background-color: #f7f7f7;
+    background-color: #FFFCF4;
 }
 
 .bg-darkest-gray {
@@ -115,7 +115,7 @@ h6 {
 }
 
 .bg-footer-light-gray {
-    border-top: medium solid #f7f7f7;
+    border-top: medium solid #FFFCF4;
     border-bottom: none;
     border-left: none;
     border-right: none;
@@ -241,8 +241,8 @@ fieldset[disabled] .btn-xl.active {
 .btn-invert:active,
 .btn-invert.active,
 .open .dropdown-toggle.btn-invert {
-    border-color: #{{ site.data.template.color.secondary }};
-    color: #{{ site.data.template.color.secondary }} !important;
+    border-color: #{{ site.data.template.color.primary }};
+    color: #{{ site.data.template.color.primary }} !important;
     background-color: none;
 }
 
