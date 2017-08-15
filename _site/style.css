@@ -22,6 +22,11 @@ body {
     padding-right: 0px;
 }
 
+.zero-vertical-margin {
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+}
+
 .text-muted {
     #777;
 }
@@ -41,6 +46,16 @@ p {
 
 p.large {
     font-size: 16px;
+}
+
+p.large-text-two-lines {
+   overflow: hidden;
+   text-overflow: ellipsis;
+   display: -webkit-box;
+   line-height: 16px;     /* fallback */
+   max-height: 32px;      /* fallback */
+   -webkit-line-clamp: 1; /* number of lines to show */
+   -webkit-box-orient: vertical;
 }
 
 p.long-text-extra-padding {
