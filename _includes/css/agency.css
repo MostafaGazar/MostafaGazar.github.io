@@ -972,6 +972,10 @@ section#sessions .event-venue-4 {
     color: RGB(229, 134, 38);
 }
 
+.speaker-name {
+    color: #2398E6;
+}
+
 @media(min-width:768px) {
   section#sessions .container-fluid {
       margin-left: 100px;
