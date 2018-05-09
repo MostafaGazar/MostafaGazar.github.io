@@ -5,7 +5,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 title: Mobile Refresh
 email: mmegazar@gmail.com
 description: > # this means to ignore newlines until "twitter_username:"
-  GDG Wellington, together with Cocoaheads Wellington is proud to bring you Mobile Refresh 2017. Our one-day conference aims to bring together 200 mobile technology enthusiasts who are interested in debating the latest developments announced at Google I/O and WWDC.
+  GDG Wellington, together with Cocoaheads Wellington is proud to bring you Mobile Refresh 2018. Our one-day conference aims to bring together 200 mobile technology enthusiasts who are interested in debating the latest developments announced at Google I/O and WWDC.
 twitter_username: GDGWellington
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
