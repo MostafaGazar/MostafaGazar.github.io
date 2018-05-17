@@ -1,11 +1,11 @@
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: FFC300
-  secondary: ECB500
+  primary: FADC4F
+  secondary: E1C647
   secondary-dark: 333
   muted: 777
-  header: 24292E
-  button: E9FFFF
+  header: 11111180
+  button: 111111E6
 
 # Font Families
 font:
