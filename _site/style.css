@@ -942,6 +942,14 @@ section#agenda table {
   }
 }
 
+section#speakers img.speaker-photo {
+  object-fit: cover;
+  border-radius: 50%;
+  box-shadow: 0px 0px 2px #888;
+  width: 100px;
+  height: 100px;
+}
+
 section#speakers table {
   margin-left: 20px;
   margin-right: 20px;
