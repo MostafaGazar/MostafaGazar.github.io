@@ -1,0 +1,10 @@
+---
+modal-id: 4
+talk-title: Making Things do stuff
+talk-description: Use your existing Android skills and a few new APIs, with Android Things, to sample the outside world and influence the future. Control common hardware like servos and LCD displays. Use temperature sensors and other peripherals in your design. Learn how to get your project idea off the ground.
+speaker-name: Dave McKelvie
+speaker-bio: 
+speaker-img: no-photo.png
+speaker-twitter: 
+
+---

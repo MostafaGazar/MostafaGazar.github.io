@@ -1,0 +1,10 @@
+---
+modal-id: 11
+talk-description: A detailed look at the challenges of collecting push message and engagement analytics for millions of iOS and Android mobile phones using modern AWS tooling and DevOps techniques, including lessons for your own organisations as you scale.
+speaker-bio: A keen DevOps engineer, Jethro spends his time working closely with developers at Sailthru to help support high throughput push messaging and telemetry updates from phones.
+speaker-twitter: 
+speaker-img: jethro.jpeg
+speaker-name: Jethro Carr
+talk-title: Scaling backend infrastructure for millions of phones
+
+---

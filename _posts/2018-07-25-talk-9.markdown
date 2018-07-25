@@ -1,0 +1,11 @@
+---
+modal-id: 9
+talk-title: Breaking the ice with Natural Language Processing
+talk-description: "1. A brief intro into basic NLP concepts and algorithms: document classification, word embeddings, semantic similarity, etc.
+ 2. Conversational interfaces. How to build a chatbot with Dialogflow: main concepts, use-cases, integrations."
+speaker-name: Ilia Kopylov
+speaker-bio: I'm a Machine Learning Engineer at Springload who came from Android development background.
+speaker-img: ilia-kopylov.jpg
+speaker-twitter: 
+
+---

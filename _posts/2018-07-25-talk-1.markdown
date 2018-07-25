@@ -1,0 +1,10 @@
+---
+modal-id: 1
+talk-title: Mobile Testing, Automation, Manual or Hybrid
+talk-description: In this day and age more and more people are relying on their mobile devices to run their business or their lives. They expect constant updates to their operating systems and applications and don't tolerate failures lightly turning to social media very very quickly. So quality and testing specifically targeted at the mobile market is paramount - so should testing be purely a manual based activity, a purely automated based activity or as we believe a hybrid of both automation and manual. Our presentation looks at how to get the best from both skillsets to fit a 21st Century Mobile model and prepare for the 22nd Century and what the future has in store for us all.
+speaker-name: Tony Parrott
+speaker-bio: Tony has been involved in software testing for almost 30 years and has presented before at the ANZTB (Australia & New Zealand Testing Board) conference. Tony is passionate about testing as a career and is excited about the challenges facing testing, especially in the mobile market and how we need to provide quality to end users, where the user experience is no longer a one size fits all solution.
+speaker-img: TonyParrott.png
+speaker-twitter: 
+
+---

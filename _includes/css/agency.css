@@ -942,6 +942,9 @@ section#speakers img.speaker-photo {
   width: 100px;
   height: 100px;
 }
+section#speakers a.speaker-link {
+    color: #333;
+}
 
 section#speakers table {
   margin-left: 20px;

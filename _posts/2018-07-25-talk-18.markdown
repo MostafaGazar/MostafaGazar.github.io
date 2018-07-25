@@ -1,0 +1,11 @@
+---
+modal-id: 18
+talk-description: Coming from an academic and practical background, we’ve experimented with the latest in iOS and machine learning to create a prototype for use in sports development of young people. We’ve combined our passions of rowing and programming to attempt to fill the void in data analysis and prediction in sport. 
+ 
+ Testing the new CoreML tools announced at WWDC2018 against academic ML application we endeavor to connect two of our passions together to improve the sport we love.
+speaker-bio: Christie is an iOS developer at Alphero and Valerie is a product owner/machine learning fanatic at Snapper. Christie is the head coach of Star Boating Club and Valerie is a NZ 2018 Trans-tasman rower.
+speaker-twitter: 
+speaker-img: IMG_1122.jpg
+speaker-name: Christie Davis &amp; Valerie Chan
+talk-title: iRow, Practical Machine Learning in iOS
+---

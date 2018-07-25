@@ -1,0 +1,11 @@
+---
+modal-id: 8
+talk-title: Dexs, R8 &amp; 3.2
+talk-description: In this talk we are going to see the internals of the new Dexing Compiler D8, introduced in AS 3.0 as experimental, D8 will give us faster and smaller outputs of dex files. We will understand better how is the Dex Processing in Oreo/P from the ART perspective, and how is affected in the new bundle apps.
+ Additionally, we will see more about R8 a replacement for Proguard used in AS 3.2
+speaker-name: Inaki Villar
+speaker-bio: Android Developer since 7 years ago. I worked with Bank apps in Spain for three years. Later I moved to Ireland to work with apps of Airlines and GSM carriers. Actually, I’m living in Thailand working for Agoda. I’m Google Developer Expert and I enjoy being involved with the Android community.
+speaker-img: inaki.png
+speaker-twitter: 
+
+---

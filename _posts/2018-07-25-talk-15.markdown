@@ -1,0 +1,19 @@
+---
+modal-id: 15
+talk-description: There is a lot of Hype with ML and AI lately, and TensorFlow is the framework of choice from Google. But as a Mobile Developer you might have asked yourself, how can I benefit from it? In this talk, you will learn your first steps into the fascinating ML world for mobile.
+ 
+ - Set up of environment to use TensorFlow, probably for Android
+ - Classifying example
+ - Detection example
+ - Analyzing example
+ 
+ It will also be interesting to show and compare some of the times required, computational power required... as well as some comparations with other ML engines, and why TensorFlow actually overcomes there (which is actually true)
+speaker-bio: Enrique López Mañas is a Google Developer Expert and independent IT consultant. He has been working with mobile technologies and learning from them since 2007. He is an avid contributor to the open source community and a FLOSS (Free Libre Open Source Software) kind of guy, being among the top 10 open source Java contributors in Germany. He is a part of the Google LaunchPad accelerator, where he participates in Google global initiatives to influence hundreds of the best startups from all around the globe. He is also a big data and machine learning aficionado.
+ 
+ In his free time he rides his bike, take pictures, and travels until exhaustion. He also writes literature and enjoys all kinds of arts. He likes to write about himself in third person.
+speaker-twitter: 
+speaker-img: enrique.jpeg
+speaker-name: Enrique Manas Lopez
+talk-title: TensorFlow for Mobile Developers
+
+---

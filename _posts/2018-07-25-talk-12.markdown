@@ -1,0 +1,16 @@
+---
+modal-id: 12
+talk-description: I’m going to talk about effective mobile email marketing. 
+ 
+ I’ll start my talk by explaining why mobile email marketing is still a powerful tool and will underline this with real-world data.
+ 
+ Next, I’ll talk about how to build mobile-friendly emails, and the marketing tactics used to build the most effective mobile emails. I’ll also compare how mobile emails might render differently in mobile email apps or mobile browsers. Furthermore, for web developers, I’m going to point out the differences between coding websites and emails. I’m going to share real examples with my audience, and introduce some useful tools that I’m using for development, testing, and analysis. Moreover, I’ll give a few tips that I learnt from my mistakes and work experience. 
+ 
+ Finally, I’ll wrap up my talk by sharing some predictions for the future of mobile email marketing.
+speaker-bio: Hi, my name is Hyojin Jung. I'm originally from Korea, but I decided to live in New Zealand since I fell in love with Wellington 3 years ago. I used to study Chinese literature in my university in Korea, but I changed my career to web development about 2 and a half years ago. Now I’m working in a Silicon Valley-based start-up company called ‘Properly’ as a web developer. As a web developer, my main role in Properly is generating new leads. The majority of my work is designing, developing, and testing new content for the marketing website. I also do a lot of digital marketing work, such as SEO, SEM, paid search marketing, contents marketing, affiliate marketing, and tracking and analysing digital marketing campaign results.
+speaker-twitter: 
+speaker-img: HyojinJung.png
+speaker-name: Hyojin Jung
+talk-title: Wait, people still use email? - Boosting business with mobile email marketing
+
+---

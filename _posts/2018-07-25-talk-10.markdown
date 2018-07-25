@@ -1,0 +1,20 @@
+---
+modal-id: 10
+talk-description: Everyone has a story, their own unique story. Storytelling is a powerful tool for anyone who wants to build a brand, a product or even communities with the right tools and strategy. Strategic Storytelling not only sells, you can also excel in any speaking event (including those scary pitching process)!
+ 
+ Nazlina will be sharing on how she build her community from the comfort of her home in Malaysia, using free online tools and how she manage to grow the community and empower more women in tech to come out - as entreprenuers, designers, coders and great speakers! She has a huge passion in getting more women speaking at International Tech Conferences and she will be sharing some tips and tricks on how to deliver a great talk!
+speaker-bio: Nazlina is the perfect combination of an experienced integrated marketing communications (IMC) strategist, an engaging speaker and community builder. With more than 15 years of experience in strategic marketing communications and public relations across diversified industries and stakeholders, she is specialised in designing and leading 360 degrees innovative initiatives that positively impact on the organisation’s visibility, strategic direction and branding. 
+ 
+ Nazlina started out as a multimedia designer and then later expanded her career in integrated marketing communications. Over the years, she has successfully lead and setup marketing communications departments, provides consultation for top management leaderships and efficiently executes communications plan that delivers high return of investment.
+ 
+ Nazlina is an exceptional content producer and has been growing extensively in the areas of digital business transformation, social media marketing and data analytics. With her strong technical abilities, she has a long track record of producing effective creative solutions and building dynamic technology savvy teams. 
+ 
+ With the mission to empower more Malaysian women to stand out and participate more actively within the local science and technology community in Malaysia, Nazlina took on the role to lead the Kuala Lumpur chapter of Women Techmakers, a global program by Google to advocate women in science, technology, engineering and mathematics (STEM). She has been actively organising tech community events since 2015.
+ 
+ Last year, Nazlina was invited to speak at several conferences including Webcamp Penang, DroidCon Bangkok, Techsauce Global Summit Bangkok, and Google Developers Group (GDG) Summit in San Francisco. She was also invited to mentor the Startup Weekend Women's Edition and Startup Weekend USM organised by Techstars. This year she was invited as the only woman speaker for Droidcon Vietnam 2018.
+speaker-twitter: 
+speaker-img: nazlinaquadir.jpg
+speaker-name: Nazlina Quadir
+talk-title: The Power of Storytelling - My Accidental Journey as a WomenTechmakers
+
+---

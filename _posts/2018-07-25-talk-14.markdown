@@ -1,0 +1,12 @@
+---
+modal-id: 14
+talk-description: My talk discusses why localisation is important to broaden app reach and increase accessibility. It will mainly focus on store localisation as a starting point for testing audience demand for localisation. I will discuss tools and resources that can help with localisation and publishing automation.
+ I’ll talk about localisation vs translation, and how to build a localisation team. I’ll discuss keeping branding consistent across locales, devices, and ecosystems, and common pitfalls when localising. I’ll make suggestions for determining what locales to start with based on audience.
+ Finally, I’ll show how to put it all together, how to monitor and analyse the results, and possible next steps.
+speaker-bio: I'm a 30-something ex-pat Kiwi living on the Gold Coast in Australia. Mother of four fur-children. Blue is my natural hair colour.
+speaker-twitter: 
+speaker-img: Jen.jpg
+speaker-name: Jennifer Doherty
+talk-title: But doesn’t everyone with a smartphone speak English?
+
+---

@@ -1,0 +1,12 @@
+---
+modal-id: 2
+talk-title: Superheroes &amp; Forgetful teenagers Remote Device Management for iOS
+talk-description: Managing your devices can be annoying at times, but managing a few hundred is just another day at the office. Since 2012, iPad Hire has grown from an idea and two iPads to become the largest iPad rental company in the country. In this talk I will discuss the remote management tools which help make this possible.
+ 
+ You’ll learn how to enroll devices with an MDM server, and what you can (or can’t) control once they are connected. I’ll cover how to distribute & update enterprise apps, automatically set up groups of devices with apps, restrictions & more, and remotely control almost everything. Along the way I’ll share real world examples and answer important questions such as ‘how many times can an iPad be run over before it dies?’ To finish up, we’ll take a quick look at what additional benefits the Device Enrollment Program can provide.
+speaker-name: Michal Pearse
+speaker-bio: I live in Northland on a little patch of dirt with a selection of farm animals. I have worked as a .NET developer in the GIS space, an iOS developer, dev team lead, product manager, and music teacher. For the past few years, I’ve run iPadHire.co.nz, building it up from a lunchtime side-hustle to my main job.
+speaker-img: no-photo.png
+speaker-twitter: 
+
+---

@@ -1,0 +1,11 @@
+---
+modal-id: 6
+talk-title: Golang ❤️ Mobile
+talk-description: This talk will be an intro to the golang programing language, which was originally developed at Google.
+ We'll then take a look at how you can use it in the mobile space - including a demo of writing a go library which compiles to a binary which will run in both native Android and ios apps. Allowing for sharing of core logic libraries across both platforms.
+speaker-name: Bridget Cowie
+speaker-bio: Co-organiser of the Wellington golang meetup. I am not a mobile developer, but I do love my phone 😁
+speaker-img: BridgetCowie.jpg
+speaker-twitter: 
+
+---

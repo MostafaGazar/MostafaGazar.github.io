@@ -1,0 +1,15 @@
+---
+modal-id: 7
+talk-title: Android and iOS, a 100% fully serious comparison
+talk-description: A lot of us like to argue about the merits of iOS vs Android, but after a few years in both, Sam and Jie thought they’re more alike than a lot of people think. In this talk, they’ll walk you through some key concepts of both, pointing out the good parts and the bad parts, but really showing you how similar they are. 
+ 
+ This comparison is fully serious, and all information will be presented in a completely unbiased and stern way with no smiles on faces. We’ll cover everything from Xcode/Android Studio through to Networking libraries, data storage and unit testing.
+speaker-name: Sam Jarman &amp; Jie Li
+speaker-bio: Sam Jarman is an iOS Developer at BNZ. He has been making iOS apps off and on since the early days of the app store, close to eight years.
+  
+ 
+ Jie Li is a Tech Lead at BNZ. He’s worked on a multitude of apps at various companies, and has a passion for improving development practices.
+speaker-img: sam.png
+speaker-twitter: 
+
+---

@@ -1,0 +1,12 @@
+---
+modal-id: 3
+talk-title: Build Better Android Apps with Vector Assets
+talk-description: There are many advantages to using vector-based assets in your Android apps — smaller binary size, faster loading, easier support for all pixel densities, dynamic drawing, and more ways to animate. Despite the upsides, SVGs and VectorDrawable assets are more complex to author and use.
+ 
+ We will explore everything needed to create, export, and implement SVGs and VectorDrawables on Android, including common issues and their remedies.
+speaker-name: Luke Sleeman
+speaker-bio: I'm a senior Android developer working for Itty Bitty Apps. I have more than 5 years Android experience and help organise GDG Melbourne.
+speaker-img: luke.jpg
+speaker-twitter: 
+
+---

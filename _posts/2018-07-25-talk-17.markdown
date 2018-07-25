@@ -1,0 +1,10 @@
+---
+modal-id: 17
+talk-description: I will talk about how "responsible leadership" plays a crucial part in creating a stable company culture. Having a healthy organizational culture not only ensures success of the company but also provides insights into its health as an organization. The role of the leader is important in sustaining the vision and goals of a company and that can be done first, by how the leader perceives themselves and, secondly how they lead their teams. Creating and handling a successful team feeds into how the overall company culture is successfully managed.
+speaker-bio: I am a sustainability and leadership expert a Popup Business School in Wellington. I have worked with startups and small businesses in Swizterland, U.K, China and New Zealand. I have done extensive academic and practical research on how leadership plays a big part in any company regardless of size and that the right kind of leadership can ensure sustainable success for the company
+speaker-twitter: 
+speaker-img: arzoo.JPG
+speaker-name: Arzoo Syeddah
+talk-title: Collaborative company culture, The role of leaders in building and sustaining teams
+
+---
