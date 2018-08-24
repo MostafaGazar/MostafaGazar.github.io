@@ -3,7 +3,7 @@ modal-id: 13
 talk-description: A while back Trade Me had a custom brand font created by Klim Type Foundry. Off the back of this, the question arose, what about the native apps? Do we use our new custom brand typeface or do we use each platform’s respective font, San Fransico for iOS and Roboto for Android? Here's the research that helped us decide.
 speaker-bio: Hello! I'm Gili, currently a mobile designer at Trade Me. I like crafting user experiences for humans and native app design.
 speaker-twitter: 
-speaker-img: no-photo.png
+speaker-img: gili.png
 speaker-name: Gili Sharrock
 talk-title: Custom vs native fonts in apps
 
